@@ -10,8 +10,6 @@
 <p>Here people search for an item name and get a group of items with details </p>
 <img src="myproject/Screenshots/pet.JPG">
 <p>On this page, people find all kinds of pet products</p>
-<img src="myproject/Screenshots/pet.JPG">
-<p>On this page, people find all kinds of pet products</p>
 <img src="myproject/Screenshots/petsearch2.JPG">
 <p>Here, people find similar pet products together</p>
 <img src="myproject/Screenshots/list2.JPG">
